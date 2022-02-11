@@ -1,0 +1,16 @@
+.idea/
+CMakeLists.txt
+TSDF.cpp
+bin_read_write.cpp
+binary_tree.cpp
+boost_serilization.cpp
+build/
+cmake-build-debug/
+data/
+globalIndexEffeciency.cpp
+min_surface_rectangle.cpp
+simple_text.cpp
+test_redifination/
+thread_test.cpp
+tictoc.h
+
